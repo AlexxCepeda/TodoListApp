@@ -1,24 +1,19 @@
 {
   "todos": [
     {
-      "id": 1,
-      "text": "Crear un backend en 30s",
-      "done": true
+      "text": "Actualizar backend",
+      "done": false,
+      "id": 1
     },
     {
-      "text": "Escribirle a juleita",
+      "text": "Actualizar github",
+      "done": false,
+      "id": 2
+    },
+    {
+      "text": "Don't stop",
       "done": true,
-      "id": 9
-    },
-    {
-      "text": "Amar a todos",
-      "done": false,
-      "id": 10
-    },
-    {
-      "text": "pedir perdon",
-      "done": false,
-      "id": 11
+      "id": 3
     }
   ]
 }
