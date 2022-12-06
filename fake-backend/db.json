@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Crear un backend en 30s",
+      "done": true
+    },
+    {
+      "text": "Escribirle a juleita",
+      "done": true,
+      "id": 9
+    },
+    {
+      "text": "Amar a todos",
+      "done": false,
+      "id": 10
+    },
+    {
+      "text": "pedir perdon",
+      "done": false,
+      "id": 11
+    }
+  ]
+}

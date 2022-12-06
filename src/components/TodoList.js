@@ -7,12 +7,12 @@ function TodoList(props) {
   return (
     <div className="list-wrapper">
       {
-        props.todos.map((element, i) =>
+        props.todos.map((element) =>
           <Todo
-            key={i}
+            key={element.id}
             text={element.text}
             done={element.done}
-            index={i}
+            index={element.id}
             onClickCheckmark={props.onClickCheckmark}
             onClickCross={props.onClickCross}
           />)
