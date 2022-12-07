@@ -2,18 +2,40 @@
   "todos": [
     {
       "text": "Actualizar backend",
-      "done": false,
-      "id": 1
+      "done": true,
+      "id": 1,
+      "details": [
+        "Reestructurar contenido",
+        "Almacenar details"
+      ]
     },
     {
       "text": "Actualizar github",
       "done": false,
-      "id": 2
+      "id": 2,
+      "details": [
+        "Actualizar perfil",
+        "delete repos unused"
+      ]
     },
     {
       "text": "Don't stop",
       "done": true,
-      "id": 3
+      "id": 3,
+      "details": [
+        "Sleep 8 hours",
+        "Keep learning"
+      ]
+    },
+    {
+      "text": "Improve everything",
+      "done": false,
+      "id": 4
+    },
+    {
+      "text": "Don´t give up",
+      "done": true,
+      "id": 5
     }
   ]
 }

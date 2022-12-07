@@ -11,7 +11,7 @@ function Form(props) {
       event => {
         event.preventDefault();
         if (value !== initState) {
-          props.updateTodos({
+          props.createTodo({
             text: value,
             done: false,
           });
